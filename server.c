@@ -5,6 +5,7 @@
 #include <stdlib.h>
 #include <netinet/in.h>
 #include <string.h>
+#include <stdint.h>
 #define PORT 8080
 #define ADD 1
 #define ABS 2
